@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      trisgiang
+HostName                       ecs-pa-einstein.ecs.csus.edu
+ProcessIdentifier              778816
+ProcessCreationTime_UTC        1744994907
+ProcessCreationTime_Readable   Fri Apr 18 09:48:27 2025 PDT
+AppIdentifier                  /opt/cadence/installs/IC231/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/student/trisgiang/CPE151/Project_2/ADDER/physConfig/physExpand.cfg
+TimeEditLocked                 Fri Apr 18 11:38:24 2025 PDT

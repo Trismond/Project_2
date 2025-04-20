@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Apr 20 00:43:12 2025 PDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/student/trisgiang/CPE151/Project_2/MUX/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sun Apr 20 02:17:55 2025 PDT
+FilePathUsedToEditLock         /home/student/trisgiang/CPE151/Project_2/SUB/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Apr 20 02:20:36 2025 PDT
