@@ -3,16 +3,16 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Apr 20 01:28:15 2025</timestamp>
-			<uuid>{5dd54a57-58ee-4baa-8e8f-b67c7d03a9a7}</uuid>
+			<timestamp>Apr 21 13:32:31 2025</timestamp>
+			<uuid>{6600ade8-132c-40f7-b805-2065021997cb}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/home/student/trisgiang/CPE151/Project_2/ADDER_1_TB/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
 			<runlog>/home/student/trisgiang/CPE151/Project_2/ADDER_1_TB/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
-			<psfdir>/home/student/trisgiang/simulation/results/maestro/ExplorerRun.0</psfdir>
-			<simdir>/home/student/trisgiang/simulation/results/maestro/ExplorerRun.0</simdir>
+			<psfdir>/home/student/trisgiang/simulation/Project_2/ADDER_1_TB/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Project_2/ADDER_1_TB/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 	</history>
 </setupdb>

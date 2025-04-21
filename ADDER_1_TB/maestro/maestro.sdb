@@ -43,16 +43,25 @@
 					<output>"/B1"
 						<evalType>point</evalType>
 					</output>
+					<output>/A1
+						<evalType>point</evalType>
+					</output>
+					<output>/A0
+						<evalType>point</evalType>
+					</output>
+					<output>"/A0"
+						<evalType>point</evalType>
+					</output>
 					<output>/B1
 						<evalType>point</evalType>
 					</output>
 					<output>/B0
 						<evalType>point</evalType>
 					</output>
-					<output>/A1
+					<output>"/Carry_In"
 						<evalType>point</evalType>
 					</output>
-					<output>/A0
+					<output>"/Carry_IN"
 						<evalType>point</evalType>
 					</output>
 					<output>/Carry_IN
@@ -112,5 +121,6 @@
 		</incrementalsimsetup>
 		<overwritehistoryname>ExplorerRun.0</overwritehistoryname>
 	</active>
-	<history>History</history>
+	<history>History
+	</history>
 </setupdb>
