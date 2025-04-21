@@ -3,8 +3,8 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Apr 21 13:41:53 2025</timestamp>
-			<uuid>{49210c60-97c9-4729-977a-f40d58a7398c}</uuid>
+			<timestamp>Apr 21 15:47:35 2025</timestamp>
+			<uuid>{6eb39276-ef25-4ba8-a772-884a58cdb847}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/home/student/trisgiang/CPE151/Project_2/SUB_TB/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
