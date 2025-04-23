@@ -31,6 +31,44 @@
 					</option>
 				</tooloptions>
 				<origoptions></origoptions>
+				<outputs>
+					<output>/
+						<evalType>point</evalType>
+					</output>
+					<output>"/S2"
+						<evalType>point</evalType>
+					</output>
+					<output>/S2
+						<evalType>point</evalType>
+					</output>
+					<output>/S1
+						<evalType>point</evalType>
+					</output>
+					<output>/S0
+						<evalType>point</evalType>
+					</output>
+					<output>"/ADD_SUB"
+						<evalType>point</evalType>
+					</output>
+					<output>/ADD_SUB
+						<evalType>point</evalType>
+					</output>
+					<output>/MUL
+						<evalType>point</evalType>
+					</output>
+					<output>/XOR
+						<evalType>point</evalType>
+					</output>
+					<output>/AND
+						<evalType>point</evalType>
+					</output>
+					<output>/OR
+						<evalType>point</evalType>
+					</output>
+					<output>/NOT
+						<evalType>point</evalType>
+					</output>
+				</outputs>
 			</test>
 		</tests>
 		<currentmode>Single Run, Sweeps and Corners</currentmode>
@@ -83,5 +121,6 @@
 		</incrementalsimsetup>
 		<overwritehistoryname>ExplorerRun.0</overwritehistoryname>
 	</active>
-	<history>History</history>
+	<history>History
+	</history>
 </setupdb>
