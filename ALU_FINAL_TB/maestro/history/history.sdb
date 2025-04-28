@@ -1,5 +1,18 @@
 <?xml version="1.0"?>
 <setupdb version="7">history
 	<active>Active Setup</active>
-	<history>History</history>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Apr 28 14:41:12 2025</timestamp>
+			<uuid>{d2b45108-5051-4801-a03e-78c59b899e30}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/student/trisgiang/CPE151/Project_2/ALU_FINAL_TB/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/student/trisgiang/CPE151/Project_2/ALU_FINAL_TB/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/student/trisgiang/simulation/Project_2/ALU_FINAL_TB/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/Project_2/ALU_FINAL_TB/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
 </setupdb>

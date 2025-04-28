@@ -16,7 +16,7 @@
 		<currentmode>Single Run, Sweeps and Corners</currentmode>
 		<overwritehistory>0</overwritehistory>
 		<tests>
-			<test enabled="1">Project_2_ALU_FINAL_TB_1
+			<test>Project_2_ALU_FINAL_TB_1
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
@@ -25,20 +25,23 @@
 					<option>lib
 						<value>Project_2</value>
 					</option>
+					<option>path
+						<value>$AXL_SETUPDB_DIR</value>
+					</option>
 					<option>sim
 						<value>spectre</value>
 					</option>
 					<option>view
 						<value>schematic</value>
 					</option>
-					<option>path
-						<value>$AXL_SETUPDB_DIR</value>
-					</option>
 					<option>state
 						<value>active</value>
 					</option>
 				</tooloptions>
 				<outputs>
+					<output>/OUT
+						<evalType>point</evalType>
+					</output>
 					<output>/OUT3
 						<evalType>point</evalType>
 					</output>
@@ -69,6 +72,9 @@
 					<output>/S1
 						<evalType>point</evalType>
 					</output>
+					<output>/S0
+						<evalType>point</evalType>
+					</output>
 				</outputs>
 				<vars>
 					<var>V
@@ -77,7 +83,6 @@
 				</vars>
 			</test>
 		</tests>
-		<disabledtests></disabledtests>
 		<checksasserts netlist="0">
 			<test netlist="0" netlistscope="all">Project_2_ALU_FINAL_TB_1</test>
 		</checksasserts>
@@ -118,6 +123,8 @@
 			<reusesaverunhist>0</reusesaverunhist>
 			<copyreferenceresults>1</copyreferenceresults>
 		</incrementalsimsetup>
+		<overwritehistoryname>ExplorerRun.0</overwritehistoryname>
 	</active>
-	<history>History</history>
+	<history>History
+	</history>
 </setupdb>
