@@ -31,31 +31,46 @@
 					</option>
 				</tooloptions>
 				<outputs>
-					<output>/B_Out
+					<output>"/S3"
 						<evalType>point</evalType>
 					</output>
-					<output>/D1
+					<output>"/S2"
 						<evalType>point</evalType>
 					</output>
-					<output>/D0
-						<evalType>point</evalType>
-					</output>
-					<output>/A1
+					<output>"/S1"
 						<evalType>point</evalType>
 					</output>
 					<output>"/B1"
 						<evalType>point</evalType>
 					</output>
-					<output>/B1
+					<output>"/C_I"
+						<evalType>point</evalType>
+					</output>
+					<output>/S3
+						<evalType>point</evalType>
+					</output>
+					<output>/S2
+						<evalType>point</evalType>
+					</output>
+					<output>/S1
+						<evalType>point</evalType>
+					</output>
+					<output>/S0
+						<evalType>point</evalType>
+					</output>
+					<output>/A1
 						<evalType>point</evalType>
 					</output>
 					<output>/A0
 						<evalType>point</evalType>
 					</output>
+					<output>/B1
+						<evalType>point</evalType>
+					</output>
 					<output>/B0
 						<evalType>point</evalType>
 					</output>
-					<output>/B_In
+					<output>/C_I
 						<evalType>point</evalType>
 					</output>
 				</outputs>

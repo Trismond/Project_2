@@ -31,19 +31,25 @@
 					</option>
 				</tooloptions>
 				<outputs>
-					<output>/Carry_OUT
+					<output>"/OUT"
 						<evalType>point</evalType>
 					</output>
-					<output>/SUM
+					<output>/S
 						<evalType>point</evalType>
 					</output>
-					<output>/Carry_IN
+					<output>/A
 						<evalType>point</evalType>
 					</output>
 					<output>/B
 						<evalType>point</evalType>
 					</output>
-					<output>/A
+					<output>"/C"
+						<evalType>point</evalType>
+					</output>
+					<output>/C
+						<evalType>point</evalType>
+					</output>
+					<output>/OUT
 						<evalType>point</evalType>
 					</output>
 				</outputs>

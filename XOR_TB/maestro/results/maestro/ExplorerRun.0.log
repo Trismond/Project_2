@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Wed Apr 16 12:18:26 2025 
+Current time: Mon Apr 28 22:07:54 2025 
 Best design point: 1
 Design specs: 
 	Project_2_XOR_TB_1	corner	Nominal - 
@@ -10,4 +10,4 @@ ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Wed Apr 16 12:18:36 2025 
+Current time: Mon Apr 28 22:08:02 2025 
