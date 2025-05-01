@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      trisgiang
+HostName                       ecs-pa-einstein.ecs.csus.edu
+ProcessIdentifier              1156411
+ProcessCreationTime_UTC        1746047812
+ProcessCreationTime_Readable   Wed Apr 30 14:16:52 2025 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/student/trisgiang/CPE151/Project_2/ALU_FINAL/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Apr 30 17:14:59 2025 PDT
